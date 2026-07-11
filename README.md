@@ -9,11 +9,11 @@ A professional **Power BI Dashboard** built to analyze sales performance, revenu
 Below is a preview of the interactive **Sales & Revenue Analysis Dashboard** built in Microsoft Power BI.
 
 <p align="center">
-  <img src="Screenshot1" alt="Sales & Revenue Dashboard - Overview" width="100%">
+  <img src="Screenshot1.png" alt="Sales & Revenue Dashboard - Overview" width="100%">
 </p>
 
 <p align="center">
-  <img src="Screenshot2" alt="Sales & Revenue Dashboard - Insights" width="100%">
+  <img src="Screenshot2.png" alt="Sales & Revenue Dashboard - Insights" width="100%">
 </p>
 
 ---
