@@ -6,9 +6,27 @@ A professional **Power BI Dashboard** built to analyze sales performance, revenu
 
 # 📸 Dashboard Preview
 
-> Add your dashboard screenshot here.
+Below is a preview of the interactive **Sales & Revenue Analysis Dashboard** built in Microsoft Power BI.
 
-![Sales & Revenue Dashboard](./assets/dashboard.png)
+<p align="center">
+  <img src="Screenshot1" alt="Sales & Revenue Dashboard - Overview" width="100%">
+</p>
+
+<p align="center">
+  <img src="Screenshot2" alt="Sales & Revenue Dashboard - Insights" width="100%">
+</p>
+
+---
+
+## 🌐 Live Dashboard
+
+Explore the interactive Power BI dashboard online.
+
+<p align="center">
+  <a href="https://app.powerbi.com/groups/me/reports/baa6f87a-4f2b-45a0-a2ba-e0cfd28c7e70/94fc5ae87b00acaa951e?experience=power-bi">
+    <img src="https://img.shields.io/badge/Power%20BI-Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Live Dashboard">
+  </a>
+</p>
 
 ---
 
